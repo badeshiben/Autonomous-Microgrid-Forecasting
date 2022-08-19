@@ -1,0 +1,9 @@
+*.slxc
+*.mexw64
+*.original
+slprj
+timeseries/source_timeseries
+timeseries/old_timeseries
+scopes
+old_models
+mat_files
